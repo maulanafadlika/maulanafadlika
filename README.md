@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fadli 👋</h1>
+<h1 align="center">Hi, I'm Fadlika 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
 
 - 🎓 Informatics student, currently working on research in **machine learning for waste-bank savings prediction**
 - 💼 Software developer intern at **PT. Pandu Cipta Solusi**
-- 📊 Also handling finance as **CFO at a software house** — where code meets cash flow
+- 📊 Also handling finance as **CFO at Bridge Pro IT Solutions** — where code meets cash flow
 - 🌱 Currently learning: **LightGBM, Conformal Prediction, Flutter**
 - ⚡ Fun fact: I write Minecraft mods for my own server
 
